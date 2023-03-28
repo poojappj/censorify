@@ -1,0 +1,7 @@
+{
+				"name": "censorify_bec",
+				"version": "0.0.1",
+				"description": "censor words",
+				"main": "censortext",
+				"dependencies": {}
+}
